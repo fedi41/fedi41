@@ -30,10 +30,6 @@ I am Fedor, also known as fedi41. This is the github account for my coding stuff
 
 ---
 
-### Some simple games I made:
-- [The fish game](https://fedi41.itch.io/the-fish-game)
-- [Flappylotl](https://fedi41.itch.io/flappylotl)
-
 ### Links
 - Follow me on Stardance! https://stardance.hackclub.com/@Fedi41
 - Slack (for hackclubbers): https://hackclub.enterprise.slack.com/team/U0ACE3UH351
