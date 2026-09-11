@@ -16,7 +16,7 @@ I am Fedor, 14y, also known as fedi41. This is the github account for my coding 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ### Tools & IDEs
-[![Tools](https://skillicons.dev/icons?i=neovim,vim,linux,arch,androidstudio,,git,github,raspberrypi)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=neovim,vim,linux,arch,androidstudio,git,github,raspberrypi)](https://skillicons.dev)
 
 ### Familiar with
 [![Familiar](https://skillicons.dev/icons?i=js,postgres,gradle)](https://skillicons.dev)
