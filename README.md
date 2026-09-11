@@ -12,14 +12,11 @@ I am Fedor, also known as fedi41. This is the github account for my coding stuff
 [![Languages](https://skillicons.dev/icons?i=python,java,kotlin,html,css)](https://skillicons.dev)
 
 ### Currently Learning
-[![Learning](https://skillicons.dev/icons?i=cpp,c,godot)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=cpp,c,godot,unity)](https://skillicons.dev)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ### Tools & IDEs
-[![Tools](https://skillicons.dev/icons?i=neovim,idea,androidstudio,pycharm,vscode,git,github,raspberrypi)](https://skillicons.dev)
-
-### Other tools
-[![Other](https://skillicons.dev/icons?i=unity,obsidian)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=neovim,vim,linux,arch,androidstudio,,git,github,raspberrypi)](https://skillicons.dev)
 
 ### Familiar with
 [![Familiar](https://skillicons.dev/icons?i=js,postgres,gradle)](https://skillicons.dev)
