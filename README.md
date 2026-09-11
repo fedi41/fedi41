@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=F75C7E&lines=Nice+to+meet+you!;I`m+Fedor;love+crocodiles!;...and+coding)](https://git.io/typing-svg)
 
-I am Fedor, also known as fedi41. This is the github account for my coding stuff )
+I am Fedor, 14y, also known as fedi41. This is the github account for my coding stuff )
 
 ### [> My portfolio <](https://fedi41.github.io)
 
